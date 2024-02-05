@@ -1,6 +1,11 @@
 # 💫 About Me:
 I'm an undergraduate looking for a future in the digital world.<br><br>I'm currently learning :<br>🔵   C++ for DSA<br>🟡   MERN stack for web development
 
+<br><br>🔴 I'm currently working on my portfolio.<br><br>
+🟠 Contact me at: xxx<br><br>
+🟣 I'm fairly interested in open-source projects.<br><br>
+
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thewanderingsoul08) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mohammed-abdul-shafee-1a6984284) 
