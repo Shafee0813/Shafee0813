@@ -1,7 +1,5 @@
 # 💫 About Me:
-I'm an undergraduate looking for a future in the digital world.<br><br>I'm currently learning :<br>🔵   C++ for DSA<br>🟡   MERN stack for web development
-
-<br><br>🔴 I'm currently working on my portfolio.<br><br>
+I'm an undergraduate looking for a future in the digital world.<br><br>I'm currently learning :<br>🔵   C++ for DSA<br>🟡   MERN stack for web development<br><br>🔴 I'm currently working on my portfolio.<br><br>
 🟠 Contact me at: xxx<br><br>
 🟣 I'm fairly interested in open-source projects.<br><br>
 
