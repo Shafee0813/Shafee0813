@@ -1,3 +1,7 @@
+<h1 align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=30&duration=3000&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hello+there.;I'm+Shafee." alt="Typing SVG" /></a>
+</h1>
+
 # 💫 About Me:
 I'm an undergraduate looking for a future in the digital world.<br><br>🟡I'm currently learning :<br>&emsp;👉🏻   C++ for DSA<br><t>&emsp;👉🏻   MERN stack for web development<br><br>🔴 I'm currently working on my portfolio.<br><br>
 🟠 Contact me at: xxx<br><br>
